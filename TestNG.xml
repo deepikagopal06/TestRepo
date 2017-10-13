@@ -1,0 +1,10 @@
+<suite name="MercuryTourProject">
+    <listeners>
+        <listener class-name="screenShot"/>
+    </listeners>
+    <test name="Login">
+        <classes>
+            <class name="TestLogin" />
+        </classes>
+    </test>
+</suite>

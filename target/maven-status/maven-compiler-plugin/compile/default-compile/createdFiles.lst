@@ -1,0 +1,5 @@
+BrowserStrategy/BrowserStrategy.class
+PageObjects/Login.class
+BrowserStrategy/BrowserStrategyContext.class
+BrowserStrategy/NormalBrowserStrategy/ChromeBrowserStrategy.class
+PageObjects/BasicUtilis.class

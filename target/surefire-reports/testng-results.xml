@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MercuryTourProject" duration-ms="17336" started-at="2017-10-12T11:25:08Z" finished-at="2017-10-12T11:25:25Z">
+    <groups>
+    </groups>
+    <test name="Login" duration-ms="17336" started-at="2017-10-12T11:25:08Z" finished-at="2017-10-12T11:25:25Z">
+      <class name="TestLogin">
+        <test-method status="PASS" signature="launchWebsite()[pri:0, instance:TestLogin@78faea5f]" name="launchWebsite" duration-ms="3568" started-at="2017-10-12T13:25:08Z" finished-at="2017-10-12T13:25:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchWebsite -->
+        <test-method status="PASS" signature="enterLoginDetails()[pri:1, instance:TestLogin@78faea5f]" name="enterLoginDetails" duration-ms="13500" started-at="2017-10-12T13:25:12Z" finished-at="2017-10-12T13:25:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterLoginDetails -->
+        <test-method status="PASS" signature="close()[pri:0, instance:TestLogin@78faea5f]" name="close" is-config="true" duration-ms="253" started-at="2017-10-12T13:25:25Z" finished-at="2017-10-12T13:25:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestLogin -->
+    </test> <!-- Login -->
+  </suite> <!-- MercuryTourProject -->
+</testng-results>
